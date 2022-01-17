@@ -149,4 +149,4 @@ Note that our contract name and the account we're calling this from are both `cr
 
 Now our smart contract has information about this second crossword puzzle.
 
-Let's explore how to make our frontend have a login button and truly turn this into a decentralized app (dApp)!
+Let's explore how to make our frontend have a login button and truly turn this into a decentralized app (dApp)! 
